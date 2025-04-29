@@ -1,4 +1,4 @@
-import gsap from "gsap/src"
+import gsap from "gsap"
 import { useGSAP } from "@gsap/react";
 import { rightImg, watchImg } from "../utils";
 import VideoCarousel from "./VideoCarousel";
